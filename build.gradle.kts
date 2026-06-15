@@ -14,9 +14,16 @@ repositories {
     }
 }
 
+import java.io.File
+
 dependencies {
     intellijPlatform {
-        local("/Applications/IntelliJ IDEA.app")
+        val localApp = File("/Applications/IntelliJ IDEA.app")
+        if (localApp.exists()) {
+            local(localApp.absolutePath)
+        } else {
+            intellijIdeaCommunity("2023.3") // Minimum supported version by the plugin
+        }
     }
 }
 
