@@ -14,11 +14,9 @@ repositories {
     }
 }
 
-import java.io.File
-
 dependencies {
     intellijPlatform {
-        val localApp = File("/Applications/IntelliJ IDEA.app")
+        val localApp = file("/Applications/IntelliJ IDEA.app")
         if (localApp.exists()) {
             local(localApp.absolutePath)
         } else {
