@@ -1,0 +1,15 @@
+<idea-plugin>
+    <id>com.akio.lumina.theme</id>
+    <name>Lumina Code</name>
+    <vendor email="akio@example.com" url="https://example.com">Akio</vendor>
+
+    <description><![CDATA[
+      Sleek Tech-Minimalism dark theme with deep space backgrounds, vibrant purples, and teal accents.
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="com.akio.lumina.theme" path="/theme/lumina-code.theme.json"/>
+    </extensions>
+</idea-plugin>
