@@ -11,5 +11,8 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.akio.lumina.theme" path="/theme/lumina-code.theme.json"/>
+        <themeProvider id="com.akio.lumina.deep.theme" path="/theme/lumina-code-deep.theme.json"/>
+        <themeProvider id="com.akio.lumina.light.theme" path="/theme/lumina-code-light.theme.json"/>
+        <themeProvider id="com.akio.lumina.lighter.theme" path="/theme/lumina-code-lighter.theme.json"/>
     </extensions>
 </idea-plugin>

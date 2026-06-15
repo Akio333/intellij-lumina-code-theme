@@ -1,4 +1,4 @@
-<scheme name="Lumina Code" version="142" parent_scheme="Darcula">
+<scheme name="Lumina Code Deep" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2026-06-15T12:00:00</property>
     <property name="ide">idea</property>
@@ -7,8 +7,8 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="8083ff25" />
     <option name="CARET_COLOR" value="dae2fd" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0b1326" />
-    <option name="GUTTER_BACKGROUND" value="0b1326" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="060e20" />
+    <option name="GUTTER_BACKGROUND" value="060e20" />
     <option name="LINE_NUMBERS_COLOR" value="988d9f50" />
     <option name="SELECTION_BACKGROUND" value="8083ff50" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
@@ -17,7 +17,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="dae2fd" />
-        <option name="BACKGROUND" value="0b1326" />
+        <option name="BACKGROUND" value="060e20" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
