@@ -20,13 +20,15 @@
     "panelBackground": "#131b2e",
     "panelForeground": "#dae2fd",
     "primaryForeground": "#dae2fd",
-    "rightMarginColor": "#222a3d",
+    "rightMarginColor": "#131b2e",
     "scrollbar.thumb": "#dae2fd25",
     "scrollbar.thumb.hover": "#dae2fd30",
     "selectionBackground": "#8083ff50",
     "selectionForeground": "#ffffff",
-    "separatorColor": "#222a3d",
-    "windowBackground": "#131b2e"
+    "separatorColor": "#131b2e",
+    "windowBackground": "#131b2e",
+    "TE_LineSeparator": "#131b2e",
+    "CARET_ROW_COLOR": "#131b2e"
   },
   "ui": {
     "*": {
@@ -37,13 +39,15 @@
       "selectionInactiveBackground": "#222a3d80",
       "selectionInactiveForeground": "#e1e0ff",
       "focusColor": "#44e2cd",
-      "focusedBorderColor": "#44e2cd",
-      "borderColor": "#222a3d",
+      "focusedBorderColor": "#131b2e",
+      "borderColor": "#131b2e",
       "disabledBackground": "#131b2e",
-      "disabledForeground": "#988d9f"
+      "disabledForeground": "#988d9f",
+      "separatorColor": "#131b2e"
     },
     "Borders": {
-      "color": "#131b2e"
+      "color": "#131b2e",
+      "Divider": "#131b2e"
     },
     "Button": {
       "background": "#222a3d",
@@ -73,7 +77,7 @@
     "EditorTabs": {
       "background": "#131b2e",
       "underlinedTabBackground": "#131b2e",
-      "inactiveUnderlineColor": "#44e2cd80",
+      "inactiveUnderlineColor": "#131b2e",
       "underlineColor": "#44e2cd",
       "hoverMaskColor": "#222a3d80",
       "borderColor": "#131b2e"
@@ -118,7 +122,8 @@
       "HeaderTab": {
         "hoverBackground": "#cfc2d680",
         "selectedBackground": "#131b2e",
-        "selectedInactiveBackground": "#131b2e"
+        "selectedInactiveBackground": "#131b2e",
+        "borderColor": "#131b2e"
       }
     },
     "Tree": {
@@ -129,6 +134,21 @@
       "selectionBackground": "#222a3d80",
       "selectionForeground": "#e1e0ff",
       "selectionInactiveBackground": "#222a3d80"
+    },
+    "StatusBar": {
+      "borderColor": "#131b2e"
+    },
+    "Popup": {
+      "borderColor": "#131b2e"
+    },
+    "Separator": {
+      "separatorColor": "#131b2e"
+    },
+    "Menu": {
+      "borderColor": "#131b2e"
+    },
+    "MenuBar": {
+      "borderColor": "#131b2e"
     }
   }
 }
