@@ -28,7 +28,9 @@
     "separatorColor": "#f8f9ff",
     "windowBackground": "#f8f9ff",
     "TE_LineSeparator": "#f8f9ff",
-    "CARET_ROW_COLOR": "#f8f9ff"
+    "CARET_ROW_COLOR": "#f8f9ff",
+    "informationHintBackground": "#ffffff",
+    "informationHintForeground": "#0b1c30"
   },
   "ui": {
     "*": {
@@ -139,7 +141,9 @@
       "borderColor": "#f8f9ff"
     },
     "Popup": {
-      "borderColor": "#f8f9ff"
+      "borderColor": "#f8f9ff",
+      "background": "#ffffff",
+      "foreground": "#0b1c30"
     },
     "Separator": {
       "separatorColor": "#f8f9ff"
@@ -149,6 +153,14 @@
     },
     "MenuBar": {
       "borderColor": "#f8f9ff"
+    },
+    "Documentation": {
+      "background": "#ffffff",
+      "foreground": "#0b1c30"
+    },
+    "InformationHint": {
+      "background": "#ffffff",
+      "foreground": "#0b1c30"
     }
   }
 }
