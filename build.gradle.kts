@@ -28,6 +28,15 @@ dependencies {
 intellijPlatform {
     instrumentCode = false
     pluginConfiguration {
+        id = "com.akio.lumina.theme"
+        name = "Lumina Code"
+        version = "1.0.0"
+        description = "Sleek Tech-Minimalism dark theme with deep space backgrounds, vibrant purples, and teal accents."
+        vendor {
+            name = "Akio333"
+            email = "smulye10@gmail.com"
+            url = "https://github.com/Akio333/intellij-lumina-code-theme"
+        }
         ideaVersion {
             sinceBuild = "232"
             untilBuild = "262.*"
