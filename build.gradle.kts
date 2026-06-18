@@ -30,7 +30,7 @@ intellijPlatform {
     pluginConfiguration {
         id = "com.akio.lumina.theme"
         name = "Lumina Code"
-        version = "1.0.0"
+        version = "1.0.1"
         description = "Sleek Tech-Minimalism dark theme with deep space backgrounds, vibrant purples, and teal accents."
         vendor {
             name = "Akio333"
