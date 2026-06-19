@@ -110,7 +110,7 @@
       "stripeColor": "#060e2050"
     },
     "TextField": {
-      "background": "#ffffff05",
+      "background": "#171f33",
       "foreground": "#e1e0ff",
       "caretForeground": "#dae2fd"
     },
