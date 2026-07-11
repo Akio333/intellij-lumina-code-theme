@@ -5,108 +5,115 @@
     <property name="ideVersion">2023.2.0.0</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="e5eeff" />
-    <option name="CARET_COLOR" value="0b1c30" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="f8f9ff" />
-    <option name="GUTTER_BACKGROUND" value="f8f9ff" />
-    <option name="LINE_NUMBERS_COLOR" value="988d9f50" />
-    <option name="SELECTION_BACKGROUND" value="dae2fd" />
-    <option name="SELECTION_FOREGROUND" value="000000" />
+    <option name="CARET_ROW_COLOR" value="cfd4e035" />
+    <option name="CARET_COLOR" value="20232c" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="f5f4f8" />
+    <option name="GUTTER_BACKGROUND" value="f5f4f8" />
+    <option name="LINE_NUMBERS_COLOR" value="7c819050" />
+    <option name="SELECTION_BACKGROUND" value="cfd4e080" />
+    <option name="SELECTION_FOREGROUND" value="20232c" />
   </colors>
   <attributes>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="0b1c30" />
-        <option name="BACKGROUND" value="f8f9ff" />
+        <option name="FOREGROUND" value="20232c" />
+        <option name="BACKGROUND" value="f5f4f8" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="20232c" />
+        <option name="BACKGROUND" value="316c6880" />
+        <option name="ERROR_STRIPE_COLOR" value="316c68" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="6900b3" />
+        <option name="FOREGROUND" value="704f9a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="JAVA_STRING">
       <value>
-        <option name="FOREGROUND" value="003731" />
+        <option name="FOREGROUND" value="285451" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
       <value>
-        <option name="FOREGROUND" value="6900b3" />
+        <option name="FOREGROUND" value="704f9a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="6900b3" />
+        <option name="FOREGROUND" value="704f9a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="003731" />
+        <option name="FOREGROUND" value="285451" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="6900b3" />
+        <option name="FOREGROUND" value="704f9a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="131b2e" />
+        <option name="FOREGROUND" value="2c303a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="005047" />
+        <option name="FOREGROUND" value="316c68" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="131b2e" />
+        <option name="FOREGROUND" value="2c303a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="005047" />
+        <option name="FOREGROUND" value="316c68" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="005047" />
+        <option name="FOREGROUND" value="316c68" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="131b2e" />
+        <option name="FOREGROUND" value="2c303a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="988d9f" />
+        <option name="FOREGROUND" value="7c8190" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="988d9f" />
+        <option name="FOREGROUND" value="7c8190" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="0b1c30" />
+        <option name="FOREGROUND" value="20232c" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
@@ -118,26 +125,26 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="6900b3" />
+        <option name="FOREGROUND" value="704f9a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="2f2ebe" />
+        <option name="FOREGROUND" value="48465f" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ba1a1a" />
-        <option name="ERROR_STRIPE_COLOR" value="ba1a1a" />
+        <option name="EFFECT_COLOR" value="b55d5a" />
+        <option name="ERROR_STRIPE_COLOR" value="b55d5a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="ba1a1a" />
+        <option name="FOREGROUND" value="b55d5a" />
         <option name="FONT_TYPE" value="0" />
       </value>
     </option>
