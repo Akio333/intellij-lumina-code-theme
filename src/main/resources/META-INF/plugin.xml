@@ -4,7 +4,7 @@
     <vendor email="akio@example.com" url="https://example.com">Akio</vendor>
 
     <description><![CDATA[
-      Sleek Tech-Minimalism dark theme with deep space backgrounds, vibrant purples, and teal accents.
+      Minimal, eye-comfortable themes with deep navy surfaces and softened violet, teal, and indigo accents.
     ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
