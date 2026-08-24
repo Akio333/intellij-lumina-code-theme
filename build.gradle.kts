@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.akio.lumina"
-version = "1.1.1"
+version = "1.2.0"
 
 repositories {
     mavenCentral()
@@ -30,7 +30,7 @@ intellijPlatform {
     pluginConfiguration {
         id = "com.akio.lumina.theme"
         name = "Lumina Code"
-        version = "1.1.1"
+        version = "1.2.0"
         description = "Minimal, eye-comfortable themes with deep navy surfaces and softened violet, teal, and indigo accents."
         vendor {
             name = "Akio333"

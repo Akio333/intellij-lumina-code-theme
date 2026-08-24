@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="bg" x1="5" y1="4" x2="35" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07132F"/>
+      <stop offset="1" stop-color="#02091D"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="9" y1="10" x2="31" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61F6E3"/>
+      <stop offset=".47" stop-color="#D951FF"/>
+      <stop offset=".72" stop-color="#B958FF"/>
+      <stop offset="1" stop-color="#62F5ED"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="34" height="34" rx="7" fill="url(#bg)" stroke="#14275A"/>
+  <g fill="none" stroke="url(#neon)" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M9.5 17V10.5H16" stroke="#62F5E5" stroke-width="4" opacity=".16"/>
+    <path d="M24 10.5h6.5V17" stroke-width="4" opacity=".16"/>
+    <path d="M30.5 23v6.5H16.8c-4 0-7.3-3.2-7.3-7.2V20" stroke-width="4" opacity=".16"/>
+    <path d="m18.5 13-9 9 6.7 6.2v-4.5" stroke-width="4" opacity=".16"/>
+    <path d="m23.5 27h-2.8c-2.3 0-4.2-1.9-4.2-4.2 0-1.1.4-2.1 1.2-2.9l9.2-9.2" stroke-width="4" opacity=".16"/>
+    <path d="M9.5 17V10.5H16" stroke="#62F5E5" stroke-width="1.4"/>
+    <path d="M24 10.5h6.5V17" stroke-width="1.4"/>
+    <path d="M30.5 23v6.5H16.8c-4 0-7.3-3.2-7.3-7.2V20" stroke-width="1.4"/>
+    <path d="m18.5 13-9 9 6.7 6.2v-4.5" stroke-width="1.4"/>
+    <path d="m23.5 27h-2.8c-2.3 0-4.2-1.9-4.2-4.2 0-1.1.4-2.1 1.2-2.9l9.2-9.2" stroke-width="1.4"/>
+  </g>
+</svg>

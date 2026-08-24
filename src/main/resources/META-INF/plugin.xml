@@ -1,7 +1,9 @@
 <idea-plugin>
     <id>com.akio.lumina.theme</id>
     <name>Lumina Code</name>
-    <vendor email="akio@example.com" url="https://example.com">Akio</vendor>
+    <vendor email="smulye10@gmail.com" url="https://github.com/Akio333/intellij-lumina-code-theme">Akio333</vendor>
+
+    <category>Theme</category>
 
     <description><![CDATA[
       Minimal, eye-comfortable themes with deep navy surfaces and softened violet, teal, and indigo accents.
